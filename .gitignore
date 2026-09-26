@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Database (already lives in the EPL_26_27_-SQL-Project repo)
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# OS / editor cruft
+.DS_Store
+.vscode/
+.idea/
